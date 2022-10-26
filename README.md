@@ -6,3 +6,7 @@
 GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
 
 Find the project at https://gtfobins.github.io
+
+The goal of the fork is to add a script that tries everything automatically?
+
+¯\_(ツ)_/¯ ( ͡° ͜ʖ ͡°) ¯\_( ͡° ͜ʖ ͡°)_/¯
